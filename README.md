@@ -102,7 +102,7 @@ Audio In
 ### macOS / Linux
 
 ```bash
-git clone https://github.com/yourusername/BassEnhancer.git
+git clone https://github.com/DuskAudio/BassEnhancer.git
 cd BassEnhancer
 
 # Clone JUCE into the project folder
